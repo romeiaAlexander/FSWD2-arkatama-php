@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GET</title>
+</head>
+<body>
+    <form action="OutputGet.php" method="get">
+        <b>Nama</b> </br> <input type="text" name="Nama"> </br>
+        <b>Umr</b> </br> <input type="text" name="Umur"> </br>
+    </form>
+</body>
+</html>
+=======
 <?php
 
 include 'database.php';
@@ -60,3 +77,5 @@ echo '<h1>Data Pengguna</h1>';
 }
 
 
+
+>>>>>>> 359df8012f6d7552ce6098040553e9150b75670e
